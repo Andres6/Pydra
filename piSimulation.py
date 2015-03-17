@@ -40,7 +40,7 @@ log("Start Program")
 
 ###### Max number of iterations set below ######
 hits=0.0
-iterations=1000000
+iterations=10000000
 
 for i in range(0,iterations):
 	x=random()
